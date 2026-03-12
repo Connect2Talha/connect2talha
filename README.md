@@ -3,7 +3,7 @@
 **Connect2Talha/Connect2Talha** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
 
-## Talha Shahid
+# Talha Shahid
 
 🎓 BSc Data Science Student | Leeds Beckett University
 📊 Aspiring Data Scientist & Machine Learning Engineer
